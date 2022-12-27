@@ -14,5 +14,7 @@ public class SumTillX {
             }
         }
         System.out.println("Sum: "+result);
+
+        sc.close();
     }
 }
