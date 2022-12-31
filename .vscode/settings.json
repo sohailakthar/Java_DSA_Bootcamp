@@ -2,6 +2,22 @@
     "java.project.sourcePaths": [
         ".",
         "1. Flow of Program",
-        "2. Java First"
+        "2. Java First",
+        "3. Conditional Loops",
+        "4. Functions",
+        "5. Arrays",
+        "6. Searching",
+        "7. Sorting",
+        "8. Strings",
+        "9. Patterns",
+        "10. Recursion",
+        "11. Bitwise",
+        "12. Math",
+        "13. Complexities",
+        "14. OOP",
+        "15. LinkedList",
+        "16. Stack Queue",
+        "3. Conditional Loops\\Basic Java Programs",
+        "3. Conditional Loops\\Intermediate Java Programs"
     ]
 }
