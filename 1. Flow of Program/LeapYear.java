@@ -1,5 +1,3 @@
-import java.time.Year;
-
 public class LeapYear {
     static boolean checkYear(int year)
     {
