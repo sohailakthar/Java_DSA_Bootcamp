@@ -1,5 +1,3 @@
-package Easy;
-
 public class MatrixDiagonalSum {
     public static int diagonalSum(int[][] mat) {
         int n = mat.length, sum = 0;

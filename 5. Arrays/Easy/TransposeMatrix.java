@@ -1,5 +1,3 @@
-package Easy;
-
 public class TransposeMatrix {
     public static int[][] transpose(int[][] matrix) {
         int m = matrix.length;
