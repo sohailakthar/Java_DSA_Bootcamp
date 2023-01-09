@@ -1,3 +1,4 @@
+package Easy;
 //https://leetcode.com/problems/maximum-population-year/description/
 
 public class MaximumPopulationYear {
