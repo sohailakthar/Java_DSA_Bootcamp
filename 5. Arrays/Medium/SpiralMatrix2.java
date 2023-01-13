@@ -41,5 +41,6 @@ public class SpiralMatrix2 {
         System.out.print("Enter a number(n): ");
         int n = sc.nextInt();
         System.out.println(Arrays.deepToString(generateMatrix(n)));
+        sc.close();
     }
 }
